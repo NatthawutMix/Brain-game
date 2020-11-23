@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539185987805",
+    "firebase_url": "https://project-unity-371b3.firebaseio.com",
+    "project_id": "project-unity-371b3",
+    "storage_bucket": "project-unity-371b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539185987805:android:8fe1be83bc7811d9",
+        "android_client_info": {
+          "package_name": "com.projectunity.databaseunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539185987805-001fc7a4ord4shrpsvl8t5s6kpchm5ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7aZzbrM7vWA-Uue2ofDAhSjTtgMvKUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539185987805-001fc7a4ord4shrpsvl8t5s6kpchm5ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
